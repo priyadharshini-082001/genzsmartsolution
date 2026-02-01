@@ -119,12 +119,10 @@ dl, ol, ul {
 }
 
 .bg-grey {
-	background-image: url("../img/purple.avif");
-	background-blend-mode: overlay;
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-color: #1265d23e;
+
+	background-color: rgba(208, 192, 244, 0.301);
+
+	
 }
 
 .section-padding {
